@@ -16,4 +16,4 @@ Our poster focuses on oral health. We began our analysis by examining whether pe
 - https://worldpopulationreview.com/country-rankings/sugar-consumption
 
 
-<img src="Wieckowska_Wojterska_Zielinski.pdf" align="center" width="600"/>
+<img src="Wieckowska_Wojterska_Zielinski.png" align="center" width="600"/>
