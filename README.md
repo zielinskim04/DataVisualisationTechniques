@@ -2,17 +2,11 @@
 
 This course was part of the third term, focusing on data visualization techniques using **R** and **Python**.  
 
-### 🖥️ Tools & Technologies  
-
-#### **Programming Languages**  
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-
-#### **Libraries & Frameworks**  
+### **Libraries & Frameworks**  
 - **R**: `ggplot2`, `ggstatsplot`, `ggrepel`, `maps`, `patchwork`, `gganimate`, `ggiraph`, `visNetwork`, `plotly`, `shiny`  
 - **Python**: `matplotlib`, `seaborn`, `networkx`, `plotly`  
 
-#### **Development Tools**  
+### **Development Tools**  
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white) 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 
