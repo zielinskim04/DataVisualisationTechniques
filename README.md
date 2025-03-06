@@ -1,21 +1,34 @@
-## Data Visualization Techniques
+## 📊 Data Visualization Techniques  
 
-This course was part of the third term. We used **R** and **Python**, including the following libraries:  
+This course was part of the third term, focusing on data visualization techniques using **R** and **Python**.  
 
+### 🖥️ Tools & Technologies  
+
+#### **Programming Languages**  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+#### **Libraries & Frameworks**  
 - **R**: `ggplot2`, `ggstatsplot`, `ggrepel`, `maps`, `patchwork`, `gganimate`, `ggiraph`, `visNetwork`, `plotly`, `shiny`  
-- **Python**: `matplotlib`, `seaborn`  
+- **Python**: `matplotlib`, `seaborn`, `networkx`, `plotly`  
 
-We primarily worked with **RStudio** and **Jupyter Notebook**.  
+#### **Development Tools**  
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white) 
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 
-### Projects in this Repository  
+---
+
+### 📂 Projects in this Repository  
 
 This repository contains two main projects:  
 
 1. **[Poster Project](https://github.com/zielinskim04/DataVisualisationTechniques/tree/main/project_1)** – A static data visualization project presented as a poster.  
 2. **[Shiny App](https://github.com/zielinskim04/DataVisualisationTechniques/tree/main/project_2)** – An interactive web application built using the `shiny` package in R.  
 
-### Homework Assignments  
+---
 
-You can find all homework assignments in the **[Homeworks folder](https://github.com/zielinskim04/DataVisualisationTechniques/tree/main/homeworks_2024)**.  
+### 📝 Homework Assignments  
 
-Feel free to explore all projects and assignments! 
+All homework assignments are available in the **[Homeworks folder](https://github.com/zielinskim04/DataVisualisationTechniques/tree/main/homeworks_2024)**.  
+
+
